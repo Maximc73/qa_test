@@ -1,8 +1,4 @@
 tttt
 rrrr
 eeee
-<<<<<<< HEAD
 qqqq
-=======
-wwww
->>>>>>> news
